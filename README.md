@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Function solves the quadratic equations for real roots.
 
 # Project Goals
 
