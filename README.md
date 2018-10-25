@@ -22,7 +22,7 @@ import get_roots from quadratic_equation
 
 # Test
 
-It is successfully tested by `tests.py`:
+It is successfully tested with `tests.py`:
 ```
 $ python3 tests.py
 ....
