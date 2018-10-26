@@ -10,9 +10,9 @@
 
 The module requires installed Python 3.5 interpreter.
 Import the module into your program or just the function `get_roots` from it. To get real roots
- of the equation `a*x^2 + b*x + c` call the function `get_roots(a, b, c)`
+ of the equation `a*x^2 + b*x + c` call the function `get_roots(a, b, c)`.
 
-example:  getting roots for `x^2 + 2*x + 3`
+Example:  getting roots for `x^2 + 2*x + 3`
 
 ```python
 import get_roots from quadratic_equation
