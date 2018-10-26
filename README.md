@@ -9,15 +9,15 @@
 # How to use
 
 The module requires installed Python 3.5 interpreter.
-Use the module by importing the whole module: 
-```
-import quadratic_equation
-```
+Import the module into your program or just the function `get_roots` from it. To get real roots
+ of the equation `a * x^2 + b * x + c` call the function `get_roots(a, b, c)`
 
-or the function `get_roots()` from it:
+example:  getting roots for `x^2 + 2 * x + 3`
 
-```
+```python
 import get_roots from quadratic_equation
+
+root1, root2 = get_roots(1, 2, 3)
 ```
 
 # Test
